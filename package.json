@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.23.0",
+    "eslint-plugin-react": "^7.37.4"
+  },
+  "dependencies": {
+    "@phosphor-icons/react": "^2.1.7"
+  }
+}
